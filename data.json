@@ -1,0 +1,297 @@
+[
+  {
+    "Title": "Idle Zoo World",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 5,
+    "ProjectDate": "Dec 2024 - June 2025",
+    "Description": [
+      "Implemented core gameplay systems, UI, and integrated art assets.",
+      "Imported configuration data from Google Sheets using custom editor tools.",
+      "Implemented rewarded videos and analytics events.",
+      "Maintained and optimized codebase for performance and stability on low-end devices.",
+      "Ensured timely delivery and agile architecture for 5 iterations of the project."
+    ],
+    "footer": "Idle Resource Management Game, where players can build and manage their own zoo.<br>Attracting visitors and earning money to expand their collection of animals and facilities.",
+    "media": [
+      {
+        "type": "webgl",
+        "url": "https://dendefo.github.io/Idle Zoo World/IDLE Zoo World WebGL Build/index.html",
+        "alt": "WebGL interactive build",
+        "background": "Idle Zoo World/Ft Image.png"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/optpSuFshZA",
+        "alt": "Idle Zoo World Gameplay Video"
+      }
+    ],
+    "IOSLink": "https://apps.apple.com/us/app/idle-zoo-world/id6741068719",
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.QuarterGames.IdleZooWorld",
+    "Publisher": "Supersonic from Unity"
+  },
+  {
+    "Title": "Glass Jam",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 5,
+    "ProjectDate": "Nov 2025 - Dec 2025",
+    "Description": [
+      "Implemented core gameplay systems, UI, and integrating art assets.",
+      "Developed automation level editor tools to quickly import from PSB to playable levels.",
+      "Leveraged AI-assistant to create dynamic difficulty in level generation",
+      "Integrated Unity Analytics to track player behavior and optimize game design based on data insights."
+    ],
+    "footer": "Merge-3 Puzzle Game, where players pick up and merge glass pieces to clear levels and progress through the game.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/NezhyxUt-8Q",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "IOSLink": "https://apps.apple.com/us/app/glass-jam/id6756352103",
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.GlassJam",
+    "Publisher": "Supersonic from Unity"
+  },
+  {
+    "Title": "Recycle Jam",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 5,
+    "ProjectDate": "Nov 2025 - Dec 2025",
+    "Description": [
+      "Implemented core gameplay systems, UI, and integrating art assets.",
+      "Integrated core systems from previous games to streamline development.",
+      "Created smooth fluid-like animations for flowing bottles using DOTween and Feel.",
+      "Leveraged AI-assistant to create dynamic difficulty in level generation"
+    ],
+    "footer": "Merge-3 Puzzle Game, where players pick up and merge bottles in the ocean to clear levels and progress through the game.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/P2Ta0kF8fuY",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.RecycleJam",
+    "Publisher": "Supersonic from Unity"
+  },
+  {
+    "Title": "Myth Showdown",
+    "MyTitle": "Gameplay Programmer",
+    "TeamSize": 8,
+    "ProjectDate": "Oct 2025 - Nov 2025",
+    "Publisher": "Crazy Labs",
+    "Description":[
+      "Implement core gameplay autobattle systems, UI, and integrating art assets.",
+      "Collaborated with designers and artists to implement engaging mechanics and visually appealing assets.",
+      "Animated characters and effects using Unity's animation system and DOTween for smooth and responsive gameplay.",
+      "Developer Card-Rolling dependency system to manage character progression and unlocks."
+    ],
+    "footer": "Auto-Battler Game, where players collect and upgrade characters based on mythological creatures and battle against other players in strategic matches.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/8hAc_rFF5-A",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "IOSLink": "https://apps.apple.com/us/app/myth-showdown/id6752291599",
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.cloverhoppa.dsd&hl=en"
+  },
+  {
+    "Title":"Hex Flow",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 6,
+    "ProjectDate": "Dec 2025 - Jan 2026",
+    "Publisher": "Crazy Labs",
+    "Description": [
+      "Implemented core gameplay systems, UI, and integrating art assets.",
+      "Developed quick prototype for marketability testing with changing requirements and tight deadlines."
+    ],
+    "media":[
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/J_6ZYLMejX0",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "footer": "Pixel Flow like Puzzle game, where player sends colored rabbits to the tray and tries to clear the hexagonal level",
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.hexaflow"
+  },
+  {
+    "Title": "Coffee Go!",
+    "MyTitle": "Tools Programmer",
+    "TeamSize": 9,
+    "ProjectDate": "Jan 2026 - Feb 2026",
+    "Publisher": "Crazy Labs",
+    "Description":[
+      "Created customer level editing tools workflow inside Unity Prefab Stage by using Handles as a designer control points",
+      "Developed A* pathfinding solver algorithm based on state-space graph of the level and implemented it in C# to validate level solvability",
+      "Designed a solution for robust anyisize multicolored trays for cups, allowing development for new mechains",
+      "Collaborated with Lead developer to ensure seamless integration of tools into the development pipeline and provided ongoing support for tool usage and maintenance."
+    ],
+    "footer": "Puzzle Game, where player clicks on colored cups inside trays trying to clear the level by sending them to the correct colored trays",
+    "media":[
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/3dW1rGvoVKA",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.coffeego"
+  },
+  {
+    "Title": "Hidden Match World",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 5,
+    "ProjectDate": "July 2025",
+    "Description": [
+      "Implemented core gameplay systems, UI, and integrating art assets.",
+      "Developed level editor tools to streamline content creation."
+    ],
+    "footer": "Hidden Object Puzzle Game, where players search for hidden objects in levels. Main Match mechanic is taken from Zen Match.",
+    "media": [
+      {
+        "type": "webgl",
+        "url": "Hidden Match World/Hidden Match World WebGL build/index.html",
+        "alt": "WebGL interactive build",
+        "background": "Hidden Match World/Graphic_Image_1024x500.png"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/ZctSFubpwfs",
+        "alt": "Gameplay Video"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/Level Editor.png",
+        "alt": "Level Editor"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/Hidden Object Tab.png",
+        "alt": "Hidden Object Search Tab of level editor"
+      }
+    ],
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.HiddenMatchWorld",
+    "Publisher": "Supersonic from Unity"
+  },
+  {
+    "Title": "Spaceship Defense TD",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 5,
+    "ProjectDate": "Aug-Oct 2025",
+    "Description": [
+      "Ensured core and meta are independent and modular for easy updates and additions.",
+      "Collaborated with designers and artists to implement engaging tower defense mechanics and visually appealing assets.",
+      "Optimized performance up to 300 simultaneous enemies on screen without frame drops on low-end devices.",
+      "Created level design tools such as Timeline-based wave editor and Graph-based tower upgrade system."
+    ],
+    "footer": "Tower Defense Game, where player chooses towers and upgrades for his ship and defends against waves of enemies.",
+    "media": [
+      {
+        "type": "webgl",
+        "url": "Spaceship Defense TD/PlaneTD WebGL/index.html",
+        "alt": "WebGL interactive build",
+        "background": "Spaceship Defense TD/Spaceship TD banner.png"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/Yip4yHiBFKM",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "IOSLink": "https://apps.apple.com/us/app/spaceship-defense-td/id6752291600",
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.SpaceshipDefenseTD",
+    "Publisher": "Supersonic from Unity"
+  },
+  {
+    "Title": "Miasma",
+    "MyTitle": "Lead Unity Developer",
+    "TeamSize": 8,
+    "SubTitle": "College Project",
+    "ProjectDate": "Jan-Sep 2025",
+    "Description": [
+      "Responsible for architecture, PRs, code reviews and mentoring other developers.",
+      "Dividing tasks among team members.",
+      "Troubleshooting of URP issues between 2D and 3D rendering.",
+      "Optimizing of GPU performance."
+    ],
+    "footer": "2.5D Sidescroller Lovecraftian Horror Game where Marie, a ship captain's daughter, navigates a storm-wracked vessel while experiencing terrifying visions that blur reality and nightmare.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://drive.google.com/file/d/1ytKmnGGGiaAwVk0j4BhRW3tjQ0K5KbuL/preview",
+        "alt": "Trailer Video"
+      }
+    ],
+    "GoogleDriveLink": "https://drive.google.com/file/d/1YUn2FrCuxlFiFrY7uhd1blZ9gvxyT2ZU/view?usp=sharing",
+    "GitHubLink": "https://github.com/Quarter-Games/Death-Beyond-Depths"
+  },
+  {
+    "Title": "Chefhero",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 5,
+    "SubTitle": "Extra-Curricular Project",
+    "ProjectDate": "Aug-May 2024",
+    "Description": [
+      "Developed core system including player controls, enemy AI, and level progression.",
+      "Implemented 2D art using 2D rig and IK.",
+      "Implemented meta system of upgrades into the game."
+    ],
+    "footer": "2D Bullet Heaven Sidescroller where a Chef saves his restaurant from invading food monsters using kitchen utensils and cooking tools.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://drive.google.com/file/d/1ENniI6U3hq8PexpF0OPrxeuv7qhnWtpp/preview",
+        "alt": "Trailer Video"
+      }
+    ],
+    "GoogleDriveLink": "https://drive.google.com/file/d/1WtlXlExIvRExNWDfMX90B1uyzZ8hAxtR/view?usp=sharing",
+    "GitHubLink": "https://github.com/Quarter-Games/Natuw"
+  },
+  {
+    "Title": "Horde Switch",
+    "MyTitle": "Solo Programmer",
+    "TeamSize": 5,
+    "SubTitle": "Multiplayer powered by Photon Fusion",
+    "ProjectDate": "May-Nov 2024",
+    "Description": [
+      "Implemented multiplayer functionality using Photon Fusion.",
+      "Developed core gameplay mechanics and UI integration.",
+      "Optimized network performance for smooth gameplay experience.",
+      "Used Unity Cloud Build for continuous integration and delivery."
+    ],
+    "footer": "3D Multiplayer Card Game, where players are constantly trying to survive against enemies and outlive the opponent",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://drive.google.com/file/d/1oPMIMnAzv1leMpBcorQR2M8IzU90qCYs/preview",
+        "alt": "Gameplay Video with two players"
+      }
+    ],
+    "GitHubLink": "https://github.com/Quarter-Games/Horde-Switch"
+  },
+  {
+    "Title": "Dead Lift",
+    "MyTitle": "Lead Unity Developer",
+    "TeamSize": 8,
+    "SubTitle": "Global Game Jam Project",
+    "ProjectDate": "Jan 2024",
+    "Description": [
+      "Worked on physics-based character movement with a lot of joints and rigidbodies.",
+      "Implemented character art, rig and animations.",
+      "Developed Local Multiplayer",
+      "Slept 5 hours in total"
+    ],
+    "footer": "Local Multiplayer game about getting at the highest point of a zombie tower",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://drive.google.com/file/d/1YDH8rWsn-i3rlgUI4o9Pd2R4slJkEZcC/preview",
+        "alt": "Trailer"
+      }
+    ],
+    "GoogleDriveLink": "https://drive.google.com/file/d/1M-Y-Sy6J92tE2i0lzxbFFhAXUsXdSsrT/view?usp=sharing",
+    "GitHubLink": "https://github.com/dendefo/Dead-Lift"
+  }
+]
