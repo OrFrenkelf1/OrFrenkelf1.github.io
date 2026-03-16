@@ -1,7 +1,7 @@
 [
   {
     "Title": "Idle Zoo World",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
     "ProjectDate": "Dec 2024 - June 2025",
     "Description": [
@@ -31,7 +31,7 @@
   },
   {
     "Title": "Glass Jam",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
@@ -54,7 +54,7 @@
   },
   {
     "Title": "Recycle Jam",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
@@ -76,7 +76,7 @@
   },
   {
     "Title": "Myth Showdown",
-    "MyTitle": "Gameplay Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 8,
     "ProjectDate": "Oct 2025 - Nov 2025",
     "Publisher": "Crazy Labs",
@@ -99,7 +99,7 @@
   },
   {
     "Title":"Hex Flow",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 6,
     "ProjectDate": "Dec 2025 - Jan 2026",
     "Publisher": "Crazy Labs",
@@ -119,7 +119,7 @@
   },
   {
     "Title": "Coffee Go!",
-    "MyTitle": "Tools Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 9,
     "ProjectDate": "Jan 2026 - Feb 2026",
     "Publisher": "Crazy Labs",
@@ -141,7 +141,7 @@
   },
   {
     "Title": "Hidden Match World",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
     "ProjectDate": "July 2025",
     "Description": [
@@ -177,7 +177,7 @@
   },
   {
     "Title": "Spaceship Defense TD",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
     "ProjectDate": "Aug-Oct 2025",
     "Description": [
@@ -206,7 +206,7 @@
   },
   {
     "Title": "Miasma",
-    "MyTitle": "Lead Unity Developer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 8,
     "SubTitle": "College Project",
     "ProjectDate": "Jan-Sep 2025",
@@ -229,7 +229,7 @@
   },
   {
     "Title": "Chefhero",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
     "SubTitle": "Extra-Curricular Project",
     "ProjectDate": "Aug-May 2024",
@@ -251,7 +251,7 @@
   },
   {
     "Title": "Horde Switch",
-    "MyTitle": "Solo Programmer",
+    "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
     "SubTitle": "Multiplayer powered by Photon Fusion",
     "ProjectDate": "May-Nov 2024",
@@ -273,7 +273,7 @@
   },
   {
     "Title": "Dead Lift",
-    "MyTitle": "Lead Unity Developer",
+    "MyTitle": "Tech Artist",
     "TeamSize": 8,
     "SubTitle": "Global Game Jam Project",
     "ProjectDate": "Jan 2024",

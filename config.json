@@ -1,34 +1,28 @@
 {
   "site": {
-    "title": "David Daniel Shapiro Portfolio",
-    "author": "David Daniel Shapiro",
+    "title": "Or Frenkel Portfolio",
+    "author": "Or Frenkel",
     "footerText": "© 2025 dendefo, ChatGPT5 and Claude Sonnet 4:)"
   },
   "header": {
-    "title": "David Daniel Shapiro Portfolio",
+    "title": "Or Frenkel Portfolio",
     "downloadCV": {
       "text": "📄 Download CV",
-      "filename": "David_Daniel_Shapiro_CV.pdf",
+      "filename": "Or Frenkel_CV.pdf",
       "file": "cv.pdf"
     },
     "socialLinks": [
       {
         "name": "GitHub",
         "icon": "⚡",
-        "url": "https://github.com/dendefo",
+        "url": "https://github.com/OrFrenkelf1",
         "class": "github-link"
       },
       {
         "name": "LinkedIn", 
         "icon": "💼",
-        "url": "https://www.linkedin.com/in/dendefo/",
+        "url": "https://www.linkedin.com/in/or-frenkel-927b74270/",
         "class": "linkedin-link"
-      },
-      {
-        "name": "Telegram",
-        "icon": "💬", 
-        "url": "https://t.me/dendefo",
-        "class": "telegram-link"
       }
     ]
   },
