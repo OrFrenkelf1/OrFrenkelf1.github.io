@@ -39,10 +39,10 @@
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrating art assets.",
-      "Developed automation level editor tools to quickly import from PSB to playable levels.",
-      "Leveraged AI-assistant to create dynamic difficulty in level generation",
-      "Integrated Unity Analytics to track player behavior and optimize game design based on data insights."
+      "Engine Implementation: Integrated UI/Art assets and created optimized prefabs.",
+      "Shaders & VFX: Developed glass-shatter effects and shaders to enhance game impact and feel.",
+      "UX Planning: Designed efficient, user-centric flows for intuitive navigation.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
     ],
     "footer": "Merge-3 Puzzle Game, where players pick up and merge glass pieces to clear levels and progress through the game.",
     "media": [
@@ -62,10 +62,11 @@
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrating art assets.",
-      "Integrated core systems from previous games to streamline development.",
-      "Created smooth fluid-like animations for flowing bottles using DOTween and Feel.",
-      "Leveraged AI-assistant to create dynamic difficulty in level generation"
+      "Engine Implementation: Integrated UI/Art assets to the Unity engine.",
+      "3D Materials: Adapted shaders and materials using specialized tools to fit the 3D environment.",
+      "Visual Effects: Integrated and refined 3D VFX to align with gameplay and artistic goals.",
+      "UX Planning: Designed efficient, user-centric game flow.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
     ],
     "footer": "Merge-3 Puzzle Game, where players pick up and merge bottles in the ocean to clear levels and progress through the game.",
     "media": [
@@ -85,10 +86,9 @@
     "ProjectDate": "Oct 2025 - Nov 2025",
     "Publisher": "Crazy Labs",
     "Description":[
-      "Implement core gameplay autobattle systems, UI, and integrating art assets.",
-      "Collaborated with designers and artists to implement engaging mechanics and visually appealing assets.",
-      "Animated characters and effects using Unity's animation system and DOTween for smooth and responsive gameplay.",
-      "Developer Card-Rolling dependency system to manage character progression and unlocks."
+      "UX Analysis: Deconstructed competitor mechanics to design an intuitive and accessible user flow.",
+      "VFX Adaptation: Integrated visual effects tailored to match the game’s specific style and feel.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
     ],
     "footer": "Auto-Battler Game, where players collect and upgrade characters based on mythological creatures and battle against other players in strategic matches.",
     "media": [
