@@ -5,11 +5,7 @@
     "TeamSize": 5,
     "ProjectDate": "Dec 2024 - June 2025",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrated art assets.",
-      "Imported configuration data from Google Sheets using custom editor tools.",
-      "Implemented rewarded videos and analytics events.",
-      "Maintained and optimized codebase for performance and stability on low-end devices.",
-      "Ensured timely delivery and agile architecture for 5 iterations of the project."
+      "Implemented assets, UI, and made  effective use of workflow."
     ],
     "footer": "Idle Resource Management Game, where players can build and manage their own zoo.<br>Attracting visitors and earning money to expand their collection of animals and facilities.",
     "media": [

@@ -1,9 +1,9 @@
 body {
 margin: 0;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-background: linear-gradient(135deg, #ea6687 0%, #7930c1 100%);
+background: linear-gradient(135deg, #fff5f5 0%, #ef7777 100%);
 background-attachment: fixed;
-color: #130b0b;
+color: #4a3b3b;
 line-height: 1.6;
 min-height: 100vh;
 }
@@ -13,11 +13,11 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 padding: 2rem;
-background: rgba(255, 255, 255, 0.95);
-backdrop-filter: blur(10px);
+background: rgba(255, 255, 255, 0.8);
+backdrop-filter: blur(12px);
 color: #333;
-box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+box-shadow: 0 8px 32px rgba(234, 102, 135, 0.08);
+border-bottom: 1px solid rgba(234, 102, 135, 0.1);
 position: sticky;
 top: 0;
 z-index: 100;
@@ -26,7 +26,7 @@ z-index: 100;
 header h1 {
 font-size: 2rem;
 font-weight: 700;
-background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+background: linear-gradient(135deg, #ff8a9a 0%, #f06292 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 background-clip: text;
@@ -55,13 +55,13 @@ border-top: 1px solid rgba(255, 255, 255, 0.2);
 .cv-link {
 color: #fff;
 text-decoration: none;
-background: linear-gradient(135deg, #ff8a3b 0%, #ff5e00 100%);
+background: linear-gradient(135deg, #fe6f93 0%, #ff3a61 100%);
 padding: 0.75rem 1.5rem;
 border-radius: 25px;
 transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 font-weight: 600;
 border: none;
-box-shadow: 0 4px 15px rgba(234, 150, 102, 0.4);
+box-shadow: 0 4px 15px rgba(244, 140, 181, 0.4);
 position: relative;
 overflow: hidden;
 }
@@ -83,7 +83,7 @@ left: 100%;
 
 .cv-link:hover {
 transform: translateY(-3px);
-box-shadow: 0 8px 25px rgba(197, 102, 234, 1);
+box-shadow: 0 8px 25px rgb(234, 102, 124);
 }
 
 .cv-link span {
@@ -236,7 +236,7 @@ color: #333;
   height: 6px;
 }
 #project-sidebar::-webkit-scrollbar-thumb {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(44, 38, 4, 0.3);
   border-radius: 3px;
 }
 
@@ -342,13 +342,13 @@ color: #333;
 
 .project-card-title {
   font-weight: bold;
-  color: #fff;
+  color: #e06a89;
   font-size: 1rem;
 }
 
 .project-card-role {
   font-size: 0.8rem;
-  color: #ddd;
+  color: #a4777d;
 }
 
 /* Mobile Responsiveness */
@@ -445,7 +445,7 @@ flex: 1;
 font-size: 2.5rem;
 margin-bottom: 0.5rem;
 font-weight: 700;
-background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+background: linear-gradient(135deg, #ff8a9a 0%, #f06292 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
 background-clip: text;
@@ -455,7 +455,7 @@ text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 .section .subtitle {
 font-size: 1.3rem;
 font-weight: 500;
-color: #667eea;
+color: #4a3b3b;
 margin-bottom: 1.5rem;
 margin-top: 0.5rem;
 font-style: italic;
