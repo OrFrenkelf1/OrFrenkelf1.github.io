@@ -23,6 +23,12 @@
         "icon": "💼",
         "url": "https://www.linkedin.com/in/or-frenkel-927b74270/",
         "class": "linkedin-link"
+      },
+      {
+        "name": "ArtStation", 
+        "icon": "🖌️",
+        "url": "https://www.artstation.com/user-978944",
+        "class": "telegram-link"
       }
     ]
   },

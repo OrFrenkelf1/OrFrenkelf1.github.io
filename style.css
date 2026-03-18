@@ -150,11 +150,11 @@ box-shadow: 0 8px 25px rgba(0, 119, 181, 0.3);
 
 /* Telegram Link */
 .telegram-link {
-border-color: #0088cc;
+border-color: #005887;
 }
 
 .telegram-link:hover {
-background: #0088cc;
+background: #007cb9;
 color: #fff;
 box-shadow: 0 8px 25px rgba(0, 136, 204, 0.3);
 }
