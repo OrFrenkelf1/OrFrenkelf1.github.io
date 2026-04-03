@@ -58,7 +58,7 @@
       },
       {
         "type": "video",
-        "url": "https://youtu.be/wbuilGKkHkk",
+        "url": "https://www.youtube.com/embed/wbuilGKkHkk?si=8KpPQ48wQ-jy6rby",
         "alt": "Gameplay Video"
       }
     ],
@@ -200,7 +200,7 @@
       },
       {
         "type": "video",
-        "url": "https://youtu.be/LW-d__7F2hk",
+        "url": "https://www.youtube.com/embed/LW-d__7F2hk?si=WwQnvkoyrJk4qhgH",
         "alt": "Gameplay Video"
       },
       {
@@ -243,7 +243,7 @@
       },
       {
         "type": "video",
-        "url": "https://www.youtube.com/embed/Yip4yHiBFKM",
+        "url": "https://www.youtube.com/embed/wXYlk80PCYA?si=S8ekAYey8UoIpRF2",
         "alt": "Gameplay Video"
       }
     ],
@@ -270,6 +270,56 @@
         "type": "image",
         "url": "Miasma/Miasma.png",
         "alt": "Cover"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/2.png",
+        "alt": "First Room"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/3.png",
+        "alt": "Climb The Ladder"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/4.png",
+        "alt": "Enemy"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/5.png",
+        "alt": "Hidden"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/7.png",
+        "alt": "Fog"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/8.png",
+        "alt": "Father"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/9.png",
+        "alt": "Chef"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/10.png",
+        "alt": "Blood Pool"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/11.png",
+        "alt": "Dissolve Effect"
+      },
+      {
+        "type": "image",
+        "url": "Miasma/12.png",
+        "alt": "UX Layout"
       },
       {
         "type": "video",
@@ -363,5 +413,24 @@
     ],
     "GoogleDriveLink": "https://drive.google.com/file/d/1M-Y-Sy6J92tE2i0lzxbFFhAXUsXdSsrT/view?usp=sharing",
     "GitHubLink": "https://github.com/dendefo/Dead-Lift"
+  },
+  {
+    "Title": "Poo Master",
+    "MyTitle": "Tech Artist, UX Designer",
+    "TeamSize": 5,
+    "SubTitle": "Customer Project",
+    "ProjectDate": "September 2023",
+    "Description": [
+      "UX Implementation: Executed user flows and layouts under senior industry mentorship.",
+      "VFX & Player Experience: Designed and positioned visual feedback to ensure an optimal player journey."
+    ],
+    "footer": "A mobile game in which the player must navigate quickly to avoid the poop of angry and vengeful birds",
+    "media": [
+      {
+        "type": "image",
+        "url": "Poo Master/Poo Master.png",
+        "alt": "Cover"
+      }
+    ]
   }
 ]
