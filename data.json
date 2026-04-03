@@ -114,7 +114,7 @@
       },
       {
         "type": "video",
-        "url": "https://youtu.be/Sas2r_DmZtY",
+        "url": "https://www.youtube.com/embed/Sas2r_DmZtY?si=WSApdVqLiJCp9i8k",
         "alt": "Gameplay Video"
       }
     ],
@@ -128,8 +128,8 @@
     "ProjectDate": "Dec 2025 - Jan 2026",
     "Publisher": "Crazy Labs",
     "Description": [
-      "Implemented core gameplay systems, UI, and integrating art assets.",
-      "Developed quick prototype for marketability testing with changing requirements and tight deadlines."
+      "Market-Driven UX: Conducted competitor research to align user flows with game design specifications.",
+      "Feedback System: Planned gameplay feedback, visual effects, and Win/Loss screen states."
     ],
     "media":[
       {
@@ -168,7 +168,7 @@
       },
       {
         "type": "video",
-        "url": "https://youtu.be/GrabhDy6VOk",
+        "url": "https://www.youtube.com/embed/GrabhDy6VOk?si=1cHXXm-QGV5eaVC-",
         "alt": "Gameplay Video"
       }
     ],
@@ -189,7 +189,7 @@
     "media": [
       {
         "type": "image",
-        "url": "Hidden Match World/Hidden Object Tab.png",
+        "url": "Hidden Match World/Hidden Match World Banner.png",
         "alt": "Cover"
       },
       {
@@ -325,7 +325,7 @@
     "media": [
       {
         "type": "image",
-        "url": "Horde Switcho/Horde Switch.png",
+        "url": "Horde Switch/Horde Switch.png",
         "alt": "Cover"
       },
       {
