@@ -274,22 +274,22 @@
       {
         "type": "image",
         "url": "Miasma/2.png",
-        "alt": "First Room"
+        "alt": "Main Menu"
       },
       {
         "type": "image",
         "url": "Miasma/3.png",
-        "alt": "Climb The Ladder"
+        "alt": "First Room"
       },
       {
         "type": "image",
         "url": "Miasma/4.png",
-        "alt": "Enemy"
+        "alt": "Climb The Ladder"
       },
       {
         "type": "image",
         "url": "Miasma/5.png",
-        "alt": "Hidden"
+        "alt": "Enemy"
       },
       {
         "type": "image",
@@ -430,6 +430,11 @@
         "type": "image",
         "url": "Poo Master/Poo Master.png",
         "alt": "Cover"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/zRFDx0CpXeo?si=fOEkp99POLfbfgZt",
+        "alt": "Gameplay Video"
       }
     ]
   }
