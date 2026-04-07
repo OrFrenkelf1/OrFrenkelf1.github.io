@@ -19,8 +19,18 @@
       },
       {
         "type": "image",
+        "url": "Idle Zoo World/2.png",
+        "alt": "UX/UI Screens"
+      },
+      {
+        "type": "image",
+        "url": "Idle Zoo World/3.png",
+        "alt": "UX/UI Screens"
+      },
+      {
+        "type": "image",
         "url": "Idle Zoo World/UX.png",
-        "alt": "UX"
+        "alt": "UX Plan"
       },
       {
         "type": "video",
@@ -57,6 +67,36 @@
         "alt": "Cover"
       },
       {
+        "type": "image",
+        "url": "Glass Jam/GJ2.png",
+        "alt": "Visual Effect When Box is Completed"
+      },
+      {
+        "type": "image",
+        "url": "Glass Jam/GJ3.png",
+        "alt": "Win Screen Effects"
+      },
+      {
+        "type": "image",
+        "url": "Glass Jam/GJ7.png",
+        "alt": "Glass Shine Shader When Moving"
+      },
+      {
+        "type": "image",
+        "url": "Glass Jam/GJ8.png",
+        "alt": "Glass Break"
+      },
+      {
+        "type": "image",
+        "url": "Glass Jam/GJ9.png",
+        "alt": "Glass Break"
+      },
+      {
+        "type": "image",
+        "url": "Glass Jam/GJ10.png",
+        "alt": "Loading Screen Shader"
+      },
+      {
         "type": "video",
         "url": "https://www.youtube.com/embed/wbuilGKkHkk?si=8KpPQ48wQ-jy6rby",
         "alt": "Gameplay Video"
@@ -86,9 +126,24 @@
         "alt": "Cover"
       },
       {
-        "type": "video",
-        "url": "https://youtube.com/shorts/0BUX0wxtdJg",
-        "alt": "Gameplay Video"
+        "type": "image",
+        "url": "Recycle Jam/RCG1.png",
+        "alt": "Loading Screen Layout"
+      },
+      {
+        "type": "image",
+        "url": "Recycle Jam/rcg2.png",
+        "alt": "Completed Effect"
+      },
+      {
+        "type": "image",
+        "url": "Recycle Jam/RCG3.png",
+        "alt": "Vegetation Shader When Level Is Complete"
+      },
+      {
+        "type": "image",
+        "url": "Recycle Jam/RCG4.png",
+        "alt": "Pre Win Sequence"
       }
     ],
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.RecycleJam",
@@ -139,7 +194,7 @@
       },
       {
         "type": "video",
-        "url": "https://www.youtube.com/embed/J_6ZYLMejX0",
+        "url": "https://www.youtube.com/embed/jckH8XCgDsk?si=44QQoIRkMG66lOrl",
         "alt": "Gameplay Video"
       }
     ],
