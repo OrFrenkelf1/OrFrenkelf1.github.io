@@ -168,6 +168,16 @@
         "alt": "Cover"
       },
       {
+        "type": "image",
+        "url": "Myth Showdown/MS1.png",
+        "alt": "UX Menu and Core"
+      },
+      {
+        "type": "image",
+        "url": "Myth Showdown/MS2.png",
+        "alt": "Summoning Screen"
+      },
+      {
         "type": "video",
         "url": "https://www.youtube.com/embed/Sas2r_DmZtY?si=WSApdVqLiJCp9i8k",
         "alt": "Gameplay Video"
@@ -222,6 +232,36 @@
         "alt": "Cover"
       },
       {
+        "type": "image",
+        "url": "Coffee GO!/CG1.png",
+        "alt": "Level Layout"
+      },
+      {
+        "type": "image",
+        "url": "Coffee GO!/CG2.png",
+        "alt": "Coffee 2D Mask Shader"
+      },
+      {
+        "type": "image",
+        "url": "Coffee GO!/CG3.png",
+        "alt": "Effect When Completed On Coffee Cup Using Custom Data in The Particle System & Shader"
+      },
+      {
+        "type": "image",
+        "url": "Coffee GO!/CG4.png",
+        "alt": "Hot Steams Shader Effect"
+      },
+      {
+        "type": "image",
+        "url": "Coffee GO!/CG5.png",
+        "alt": "Win Sequence Timeline"
+      },
+      {
+        "type": "image",
+        "url": "Coffee GO!/CG6.png",
+        "alt": "Levels"
+      },
+      {
         "type": "video",
         "url": "https://www.youtube.com/embed/GrabhDy6VOk?si=1cHXXm-QGV5eaVC-",
         "alt": "Gameplay Video"
@@ -248,6 +288,56 @@
         "alt": "Cover"
       },
       {
+        "type": "image",
+        "url": "Hidden Match World/HMW1.png",
+        "alt": "UX Plan"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW2.png",
+        "alt": "Shine Shader"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW3.png",
+        "alt": "Tiling Texture Shader With Movement For Loading Screen"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW4.png",
+        "alt": "Snow Falling Effect"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW5.png",
+        "alt": "Circle Feedback Shader and Effect"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW6.png",
+        "alt": "Level For Example"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW7.png",
+        "alt": "Water Unlit Shader 2D"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW8.png",
+        "alt": "Level Completed Effect"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/HMW9.png",
+        "alt": "Clouds Hiding Objects Effect"
+      },
+      {
+        "type": "image",
+        "url": "Hidden Match World/UX.png",
+        "alt": "Screens Flow"
+      },
+      {
         "type": "webgl",
         "url": "Hidden Match World/Hidden Match World WebGL build/index.html",
         "alt": "WebGL interactive build",
@@ -257,11 +347,6 @@
         "type": "video",
         "url": "https://www.youtube.com/embed/LW-d__7F2hk?si=WwQnvkoyrJk4qhgH",
         "alt": "Gameplay Video"
-      },
-      {
-        "type": "image",
-        "url": "Hidden Match World/Level Editor.png",
-        "alt": "Level Editor"
       }
     ],
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.HiddenMatchWorld",
