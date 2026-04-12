@@ -127,111 +127,6 @@
     "Publisher": "Supersonic from Unity"
   },
   {
-    "Title": "Recycle Jam",
-    "MyTitle": "Tech Artist, UX Designer",
-    "TeamSize": 5,
-    "ProjectDate": "Nov 2025 - Dec 2025",
-    "Description": [
-      "Engine Implementation: Integrated UI/Art assets to the Unity engine.",
-      "3D Materials: Adapted shaders and materials using specialized tools to fit the 3D environment.",
-      "Visual Effects: Integrated and refined 3D VFX to align with gameplay and artistic goals.",
-      "UX Planning: Designed efficient, user-centric game flow.",
-      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
-    ],
-    "footer": "Merge-3 Puzzle Game, where players pick up and merge bottles in the ocean to clear levels and progress through the game.",
-    "media": [
-      {
-        "type": "image",
-        "url": "Recycle Jam/Recycle Jam Banner.png",
-        "alt": "Cover"
-      },
-      {
-        "type": "image",
-        "url": "Recycle Jam/RCG1.png",
-        "alt": "Loading Screen Layout"
-      },
-      {
-        "type": "image",
-        "url": "Recycle Jam/rcg2.png",
-        "alt": "Completed Effect"
-      },
-      {
-        "type": "image",
-        "url": "Recycle Jam/RCG3.png",
-        "alt": "Vegetation Shader When Level Is Complete"
-      },
-      {
-        "type": "image",
-        "url": "Recycle Jam/RCG4.png",
-        "alt": "Pre Win Sequence"
-      }
-    ],
-    "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.RecycleJam",
-    "Publisher": "Supersonic from Unity"
-  },
-  {
-    "Title": "Myth Showdown",
-    "MyTitle": "Tech Artist, UX Designer",
-    "TeamSize": 8,
-    "ProjectDate": "Oct 2025 - Nov 2025",
-    "Publisher": "Crazy Labs",
-    "Description":[
-      "UX Analysis: Deconstructed competitor mechanics to design an intuitive and accessible user flow.",
-      "VFX Adaptation: Integrated visual effects tailored to match the game’s specific style and feel.",
-      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
-    ],
-    "footer": "Auto-Battler Game, where players collect and upgrade characters based on mythological creatures and battle against other players in strategic matches.",
-    "media": [
-      {
-        "type": "image",
-        "url": "Myth Showdown/Myth Showdown Banner.png",
-        "alt": "Cover"
-      },
-      {
-        "type": "image",
-        "url": "Myth Showdown/MS1.png",
-        "alt": "UX Menu and Core"
-      },
-      {
-        "type": "image",
-        "url": "Myth Showdown/MS2.png",
-        "alt": "Summoning Screen"
-      },
-      {
-        "type": "video",
-        "url": "https://www.youtube.com/embed/Sas2r_DmZtY?si=WSApdVqLiJCp9i8k",
-        "alt": "Gameplay Video"
-      }
-    ],
-    "IOSLink": "https://apps.apple.com/us/app/myth-showdown/id6752291599",
-    "AndroidLink": "https://play.google.com/store/apps/details?id=com.cloverhoppa.dsd&hl=en"
-  },
-  {
-    "Title":"Hex Flow",
-    "MyTitle": "Tech Artist, UX Designer",
-    "TeamSize": 6,
-    "ProjectDate": "Dec 2025 - Jan 2026",
-    "Publisher": "Crazy Labs",
-    "Description": [
-      "Market-Driven UX: Conducted competitor research to align user flows with game design specifications.",
-      "Feedback System: Planned gameplay feedback, visual effects, and Win/Loss screen states."
-    ],
-    "media":[
-      {
-        "type": "image",
-        "url": "Hex Flow/Hex Flow.png",
-        "alt": "Cover"
-      },
-      {
-        "type": "video",
-        "url": "https://www.youtube.com/embed/jckH8XCgDsk?si=44QQoIRkMG66lOrl",
-        "alt": "Gameplay Video"
-      }
-    ],
-    "footer": "Pixel Flow like Puzzle game, where player sends colored rabbits to the tray and tries to clear the hexagonal level",
-    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.hexaflow"
-  },
-  {
     "Title": "Coffee GO!",
     "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 9,
@@ -288,6 +183,49 @@
       }
     ],
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.coffeego"
+  },
+  {
+    "Title": "Recycle Jam",
+    "MyTitle": "Tech Artist, UX Designer",
+    "TeamSize": 5,
+    "ProjectDate": "Nov 2025 - Dec 2025",
+    "Description": [
+      "Engine Implementation: Integrated UI/Art assets to the Unity engine.",
+      "3D Materials: Adapted shaders and materials using specialized tools to fit the 3D environment.",
+      "Visual Effects: Integrated and refined 3D VFX to align with gameplay and artistic goals.",
+      "UX Planning: Designed efficient, user-centric game flow.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
+    ],
+    "footer": "Merge-3 Puzzle Game, where players pick up and merge bottles in the ocean to clear levels and progress through the game.",
+    "media": [
+      {
+        "type": "image",
+        "url": "Recycle Jam/Recycle Jam Banner.png",
+        "alt": "Cover"
+      },
+      {
+        "type": "image",
+        "url": "Recycle Jam/RCG1.png",
+        "alt": "Loading Screen Layout"
+      },
+      {
+        "type": "image",
+        "url": "Recycle Jam/rcg2.png",
+        "alt": "Completed Effect"
+      },
+      {
+        "type": "image",
+        "url": "Recycle Jam/RCG3.png",
+        "alt": "Vegetation Shader When Level Is Complete"
+      },
+      {
+        "type": "image",
+        "url": "Recycle Jam/RCG4.png",
+        "alt": "Pre Win Sequence"
+      }
+    ],
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.RecycleJam",
+    "Publisher": "Supersonic from Unity"
   },
   {
     "Title": "Hidden Match World",
@@ -432,6 +370,68 @@
     "Publisher": "Supersonic from Unity"
   },
   {
+    "Title": "Myth Showdown",
+    "MyTitle": "Tech Artist, UX Designer",
+    "TeamSize": 8,
+    "ProjectDate": "Oct 2025 - Nov 2025",
+    "Publisher": "Crazy Labs",
+    "Description":[
+      "UX Analysis: Deconstructed competitor mechanics to design an intuitive and accessible user flow.",
+      "VFX Adaptation: Integrated visual effects tailored to match the game’s specific style and feel.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
+    ],
+    "footer": "Auto-Battler Game, where players collect and upgrade characters based on mythological creatures and battle against other players in strategic matches.",
+    "media": [
+      {
+        "type": "image",
+        "url": "Myth Showdown/Myth Showdown Banner.png",
+        "alt": "Cover"
+      },
+      {
+        "type": "image",
+        "url": "Myth Showdown/MS1.png",
+        "alt": "UX Menu and Core"
+      },
+      {
+        "type": "image",
+        "url": "Myth Showdown/MS2.png",
+        "alt": "Summoning Screen"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/Sas2r_DmZtY?si=WSApdVqLiJCp9i8k",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "IOSLink": "https://apps.apple.com/us/app/myth-showdown/id6752291599",
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.cloverhoppa.dsd&hl=en"
+  },
+  {
+    "Title":"Hex Flow",
+    "MyTitle": "Tech Artist, UX Designer",
+    "TeamSize": 6,
+    "ProjectDate": "Dec 2025 - Jan 2026",
+    "Publisher": "Crazy Labs",
+    "Description": [
+      "Market-Driven UX: Conducted competitor research to align user flows with game design specifications.",
+      "Feedback System: Planned gameplay feedback, visual effects, and Win/Loss screen states."
+    ],
+    "media":[
+      {
+        "type": "image",
+        "url": "Hex Flow/Hex Flow.png",
+        "alt": "Cover"
+      },
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/embed/jckH8XCgDsk?si=44QQoIRkMG66lOrl",
+        "alt": "Gameplay Video"
+      }
+    ],
+    "footer": "Pixel Flow like Puzzle game, where player sends colored rabbits to the tray and tries to clear the hexagonal level",
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.hexaflow"
+  },
+  {
     "Title": "Miasma",
     "MyTitle": "Tech Artist, UX Designer, Level Design",
     "TeamSize": 8,
@@ -441,7 +441,7 @@
       "UX Design: Designed core menus and UI screens (Main, Win/Loss) inspired by survival horror mechanics.",
       "Player Journey: Defined the end-to-end player experience and emotional journey through the game.",
       "Level Design & Lighting: Executed level assembly, prop placement, and dynamic lighting to establish a horror atmosphere.",
-      "Atmospheric VFX: Developed environmental effects to enhance immersion and suspense.",
+      "Atmospheric VFX: Developed envir0onmental effects to enhance immersion and suspense.",
       "Technical Art Lead: Led the Tech Art & UX department, coordinating with Art and Game Design teams to define and execute tasks."
     ],
     "footer": "2.5D Sidescroller Lovecraftian Horror Game where Marie, a ship captain's daughter, navigates a storm-wracked vessel while experiencing terrifying visions that blur reality and nightmare.",
