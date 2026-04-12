@@ -19,7 +19,7 @@
       },
       {
         "type": "image",
-        "url": "Idle Zoo World/ZOO.png",
+        "url": "Idle Zoo World/Zoo.png",
         "alt": "The Levels Of The Game Side By Side"
       },
       {
@@ -30,17 +30,12 @@
       {
         "type": "image",
         "url": "Idle Zoo World/IZ8.png",
-        "alt": "Animation Station - Prefab to Art Design Implementation"
+        "alt": "Animal Station - Prefab to Art Design Implementation"
       },
       {
         "type": "image",
         "url": "Idle Zoo World/IZ7.png",
         "alt": "Water Fountain Simple Effect From Procedural Shapes"
-      },
-      {
-        "type": "image",
-        "url": "Idle Zoo World/IZ2.png",
-        "alt": "Free Cash"
       },
       {
         "type": "image",
@@ -340,7 +335,7 @@
       {
         "type": "image",
         "url": "Hidden Match World/HMW6.png",
-        "alt": "Level For Example"
+        "alt": "Full Level Layout"
       },
       {
         "type": "image",
@@ -494,7 +489,7 @@
       {
         "type": "image",
         "url": "Miasma/10.png",
-        "alt": "Blood Pool"
+        "alt": "Blood Puddle"
       },
       {
         "type": "image",
