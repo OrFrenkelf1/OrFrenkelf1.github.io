@@ -48,7 +48,7 @@
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.QuarterGames.IdleZooWorld",
     "Publisher": "Supersonic from Unity"
   },
-  {
+  { 
     "Title": "Glass Jam",
     "MyTitle": "Tech Artist, UX Designer",
     "TeamSize": 5,
@@ -372,8 +372,28 @@
       },
       {
         "type": "image",
+        "url": "Spaceship Defense TD/SD1.png",
+        "alt": "Flame Effect Breakdown"
+      },
+      {
+        "type": "image",
+        "url": "Spaceship Defense TD/SD2.png",
+        "alt": "Stars Burst"
+      },
+      {
+        "type": "image",
+        "url": "Spaceship Defense TD/SD3.png",
+        "alt": "Visual Effects On Spaceship When Taken Too Much Damage"
+      },
+      {
+        "type": "image",
+        "url": "Spaceship Defense TD/SD4.png",
+        "alt": "Towers Projectiles And Hit Effects"
+      },
+      {
+        "type": "image",
         "url": "Spaceship Defense TD/UX.png",
-        "alt": "UX design flow in Figma"
+        "alt": "UX Design Flow in Figma"
       },
       {
         "type": "webgl",
@@ -498,33 +518,6 @@
     ],
     "GoogleDriveLink": "https://drive.google.com/file/d/1WtlXlExIvRExNWDfMX90B1uyzZ8hAxtR/view?usp=sharing",
     "GitHubLink": "https://github.com/Quarter-Games/Natuw"
-  },
-  {
-    "Title": "Horde Switch",
-    "MyTitle": "Tech Artist, UX Designer",
-    "TeamSize": 5,
-    "SubTitle": "Multiplayer powered by Photon Fusion",
-    "ProjectDate": "May-Nov 2024",
-    "Description": [
-      "Board-to-Digital Adaptation: Translated physical board game mechanics into a seamless digital user experience.",
-      "VFX & Visual Feedback: Developed 3D visual effects and interactive feedback to enhance digital gameplay.",
-      "3D Transition: Led the technical shift from 2D to 3D environments within a collaborative team setting.",
-      "Rapid Development: Executed the project as a high-impact mini-capstone under academic timelines."
-    ],
-    "footer": "3D Multiplayer Card Game, where players are constantly trying to survive against enemies and outlive the opponent",
-    "media": [
-      {
-        "type": "image",
-        "url": "Horde Switch/Horde Switch.png",
-        "alt": "Cover"
-      },
-      {
-        "type": "video",
-        "url": "https://drive.google.com/file/d/1oPMIMnAzv1leMpBcorQR2M8IzU90qCYs/preview",
-        "alt": "Gameplay Video with two players"
-      }
-    ],
-    "GitHubLink": "https://github.com/Quarter-Games/Horde-Switch"
   },
   {
     "Title": "Dead Lift",
