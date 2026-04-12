@@ -19,6 +19,31 @@
       },
       {
         "type": "image",
+        "url": "Idle Zoo World/ZOO.png",
+        "alt": "The Levels Of The Game Side By Side"
+      },
+      {
+        "type": "image",
+        "url": "Idle Zoo World/IZ5.png",
+        "alt": "Water 2D Distortion Shader and Waterfall Shader"
+      },
+      {
+        "type": "image",
+        "url": "Idle Zoo World/IZ8.png",
+        "alt": "Animation Station - Prefab to Art Design Implementation"
+      },
+      {
+        "type": "image",
+        "url": "Idle Zoo World/IZ7.png",
+        "alt": "Water Fountain Simple Effect From Procedural Shapes"
+      },
+      {
+        "type": "image",
+        "url": "Idle Zoo World/IZ2.png",
+        "alt": "Free Cash"
+      },
+      {
+        "type": "image",
         "url": "Idle Zoo World/2.png",
         "alt": "UX/UI Screens"
       },
@@ -30,7 +55,7 @@
       {
         "type": "image",
         "url": "Idle Zoo World/UX.png",
-        "alt": "UX Plan"
+        "alt": "UX Design Flow & Features"
       },
       {
         "type": "video",
@@ -41,7 +66,7 @@
         "type": "webgl",
         "url": "https://dendefo.github.io/Idle Zoo World/IDLE Zoo World WebGL Build/index.html",
         "alt": "WebGL interactive build",
-        "background": "Idle Zoo World/Ft Image.png"
+        "background": "Idle Zoo World/Idle Zoo World.png"
       }
     ],
     "IOSLink": "https://apps.apple.com/us/app/idle-zoo-world/id6741068719",
