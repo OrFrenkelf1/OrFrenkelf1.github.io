@@ -102,6 +102,10 @@ try {
             document.querySelectorAll(".project-card").forEach(c => c.classList.remove("active"));
             card.classList.add("active");
             renderMainPane(item, mainPane);
+            const portfolioMain = document.getElementById('portfolio-main');
+            if (portfolioMain) {
+                portfolioMain.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
         });
         
         sidebar.appendChild(card);
@@ -684,6 +688,14 @@ window.closeWebGLFullscreen = function() {
 
 
 
+
+function smoothScrollToPortfolio(e) {
+    e.preventDefault();
+    const target = document.getElementById('portfolio-main');
+    if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+}
 
 document.addEventListener("DOMContentLoaded", async function() {
     await loadConfiguration();

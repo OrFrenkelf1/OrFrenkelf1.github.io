@@ -12,6 +12,43 @@
 </header>
 
 
+<section id="about-section">
+  <div id="about-content">
+    <div id="about-photo-wrapper">
+      <img id="about-photo" src="profile.jpg" alt="Or Frenkel" onerror="this.style.display='none'; document.getElementById('about-photo-placeholder').style.display='flex';">
+      <div id="about-photo-placeholder">
+        <span>🎮</span>
+      </div>
+    </div>
+    <div id="about-text">
+      <h2 id="about-name">Or Frenkel</h2>
+      <h3 id="about-title">Technical Artist & UX Designer</h3>
+      <p id="about-bio">
+        I specialize in bridging the gap between art and development — crafting game feel, polished UX, 2D VFX, and custom shaders in Unity.
+        With a background in both Game development and Game Art from Tiltan School of Design, I've shipped 10 mobile titles working with Supersonic (Unity) and Crazy Labs.
+        I care deeply about the details that make games feel alive.
+      </p>
+      <div id="about-stats">
+        <div class="about-stat">
+          <span class="stat-number">10+</span>
+          <span class="stat-label">Mobile Titles</span>
+        </div>
+        <div class="about-stat">
+          <span class="stat-number">2</span>
+          <span class="stat-label">Studios</span>
+        </div>
+        <div class="about-stat">
+          <span class="stat-number">3</span>
+          <span class="stat-label">Years Experience</span>
+        </div>
+      </div>
+      <a href="#portfolio-main" id="about-cta" onclick="smoothScrollToPortfolio(event)">
+        View My Work ↓
+      </a>
+    </div>
+  </div>
+</section>
+
 <main id="portfolio-main">
   <div id="filter-container">
     <button class="filter-btn active" data-filter="All">All Games</button>
