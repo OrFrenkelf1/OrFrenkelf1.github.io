@@ -66,12 +66,13 @@ try {
         if (index === 0) card.classList.add("active");
         
         let thumbnailSrc = '';
-        if (item.media && item.media.length > 0) {
+        if (item.icon) {
+            thumbnailSrc = item.icon;
+        } else if (item.media && item.media.length > 0) {
             const firstMedia = item.media[0];
             if (firstMedia.type === 'image') thumbnailSrc = firstMedia.url;
             else if (firstMedia.background) thumbnailSrc = firstMedia.background;
             else if (firstMedia.type === 'video') {
-                // simple fallback for youtube embed
                 const videoIdMatch = firstMedia.url.match(/embed\/([^?]+)/);
                 if (videoIdMatch) thumbnailSrc = `https://img.youtube.com/vi/${videoIdMatch[1]}/default.jpg`;
             }

@@ -5,10 +5,10 @@
     "TeamSize": 5,
     "ProjectDate": "Dec 2024 - June 2025",
     "Description": [
-      "<b>Engine Integration:</b> Efficiently implemented assets and optimized technical performance.",
-      "<b>UX Design:</b> Created comprehensive flows to guide UI and enhance player experience.",
-      "<b>Shaders & VFX:</b> Developed our own shaders and effects to elevate game atmosphere.",
-      "<b>Collaboration:</b> Aligned technical execution with Art and Game Design requirements."
+      "Engine Integration: Efficiently implemented assets and optimized technical performance.",
+      "UX Design: Created comprehensive flows to guide UI and enhance player experience.",
+      "Shaders & VFX: Developed our own shaders and effects to elevate game atmosphere.",
+      "Collaboration: Aligned technical execution with Art and Game Design requirements."
     ],
     "footer": "Idle Resource Management Game, where players can build and manage their own zoo.<br>Attracting visitors and earning money to expand their collection of animals and facilities.",
     "media": [
@@ -66,7 +66,8 @@
     ],
     "IOSLink": "https://apps.apple.com/us/app/idle-zoo-world/id6741068719",
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.QuarterGames.IdleZooWorld",
-    "Publisher": "Supersonic from Unity"
+    "Publisher": "Supersonic from Unity",
+    "icon": "Idle Zoo World/icon.png"
   },
   {
     "Title": "Glass Jam",
@@ -74,10 +75,10 @@
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
-      "<b>Engine Implementation:</b> Integrated UI/Art assets and created optimized prefabs.",
-      "<b>Shaders & VFX:</b> Developed glass-shatter effects and shaders to enhance game impact and feel.",
-      "<b>UX Planning:</b> Designed efficient, user-centric flows for intuitive navigation.",
-      "<b>UI Assembly:</b> Built interactive pop-ups and feedback systems to improve player experience."
+      "Engine Implementation: Integrated UI/Art assets and created optimized prefabs.",
+      "Shaders & VFX: Developed glass-shatter effects and shaders to enhance game impact and feel.",
+      "UX Planning: Designed efficient, user-centric flows for intuitive navigation.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
     ],
     "footer": "Merge-3 Puzzle Game, where players pick up and merge glass pieces to clear levels and progress through the game.",
     "media": [
@@ -124,7 +125,8 @@
     ],
     "IOSLink": "https://apps.apple.com/us/app/glass-jam/id6756352103",
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.GlassJam",
-    "Publisher": "Supersonic from Unity"
+    "Publisher": "Supersonic from Unity",
+    "icon": "Glass Jam/icon.png"
   },
   {
     "Title": "Coffee GO!",
@@ -133,11 +135,11 @@
     "ProjectDate": "Jan 2026 - Feb 2026",
     "Publisher": "Crazy Labs",
     "Description": [
-      "<b>Market Research:</b> Analyzed competitor mechanics to design comprehensive Figma boards for game systems and boosters.",
-      "<b>UX Layout:</b> Designed screen layouts and navigation structures based on research insights.",
-      "<b>2D VFX & Shaders:</b> Implemented 2D visual effects and shaders to enhance game aesthetics.",
-      "<b>UI Animation:</b> Created end-of-level animations to provide player feedback and polish.",
-      "<b>Team Collaboration:</b> Contributed as part of a 10-person cross-functional development team."
+      "Market Research: Analyzed competitor mechanics to design comprehensive Figma boards for game systems and boosters.",
+      "UX Layout: Designed screen layouts and navigation structures based on research insights.",
+      "2D VFX & Shaders: Implemented 2D visual effects and shaders to enhance game aesthetics.",
+      "UI Animation: Created end-of-level animations to provide player feedback and polish.",
+      "Team Collaboration: Contributed as part of a 10-person cross-functional development team."
     ],
     "footer": "Puzzle Game, where player clicks on colored cups inside trays trying to clear the level by sending them to the correct colored trays",
     "media": [
@@ -182,7 +184,8 @@
         "alt": "Gameplay Video"
       }
     ],
-    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.coffeego"
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.coffeego",
+    "icon": "Coffee GO!/icon.png"
   },
   {
     "Title": "Recycle Jam",
@@ -190,11 +193,11 @@
     "TeamSize": 5,
     "ProjectDate": "Nov 2025 - Dec 2025",
     "Description": [
-      "<b>Engine Implementation:</b> Integrated UI/Art assets to the Unity engine.",
-      "<b>3D Materials:</b> Adapted shaders and materials using specialized tools to fit the 3D environment.",
-      "<b>Visual Effects:</b> Integrated and refined 3D VFX to align with gameplay and artistic goals.",
-      "<b>UX Planning:</b> Designed efficient, user-centric game flow.",
-      "<b>UI Assembly:</b> Built interactive pop-ups and feedback systems to improve player experience."
+      "Engine Implementation: Integrated UI/Art assets to the Unity engine.",
+      "3D Materials: Adapted shaders and materials using specialized tools to fit the 3D environment.",
+      "Visual Effects: Integrated and refined 3D VFX to align with gameplay and artistic goals.",
+      "UX Planning: Designed efficient, user-centric game flow.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
     ],
     "footer": "Merge-3 Puzzle Game, where players pick up and merge bottles in the ocean to clear levels and progress through the game.",
     "media": [
@@ -225,7 +228,8 @@
       }
     ],
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.RecycleJam",
-    "Publisher": "Supersonic from Unity"
+    "Publisher": "Supersonic from Unity",
+    "icon": "Recycle Jam/icon.png"
   },
   {
     "Title": "Hidden Match World",
@@ -233,10 +237,10 @@
     "TeamSize": 5,
     "ProjectDate": "July 2025",
     "Description": [
-      "<b>UX Layout & Analysis:</b> Deconstructed reference mechanics to design comprehensive screen layouts.",
-      "<b>Feedback Design:</b> Defined multi-sensory feedback for every screen, including sound, VFX, and haptics.",
-      "<b>UI Implementation:</b> Integrated UI elements into engine prefabs according to UX specifications.",
-      "<b>Custom VFX:</b> Developed game-specific visual effects to enhance player engagement."
+      "“UX Layout & Analysis: Deconstructed reference mechanics to design comprehensive screen layouts.",
+      "Feedback Design: Defined multi-sensory feedback for every screen, including sound, VFX, and haptics.",
+      "UI Implementation: Integrated UI elements into engine prefabs according to UX specifications.",
+      "Custom VFX: Developed game-specific visual effects to enhance player engagement."
     ],
     "footer": "Hidden Object Puzzle Game, where players search for hidden objects in levels. Main Match mechanic is taken from Zen Match.",
     "media": [
@@ -308,7 +312,8 @@
       }
     ],
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.HiddenMatchWorld",
-    "Publisher": "Supersonic from Unity"
+    "Publisher": "Supersonic from Unity",
+    "icon": "Hidden Match World/icon.png"
   },
   {
     "Title": "Spaceship Defense TD",
@@ -316,10 +321,10 @@
     "TeamSize": 5,
     "ProjectDate": "Aug-Oct 2025",
     "Description": [
-      "<b>UX Layout & Analysis:</b> Deconstructed reference mechanics to design comprehensive screen layouts and navigation.",
-      "<b>FTUE & Narrative:</b> Designed a user-friendly First Time User Experience (FTUE) integrated with game narrative.",
-      "<b>Feedback Mapping:</b> Defined and mapped multi-sensory gameplay feedback within Figma for implementation.",
-      "<b>Dynamic VFX:</b> Developed procedural visual effects for game towers, maintaining a clean and organized project structure."
+      "UX Layout & Analysis: Deconstructed reference mechanics to design comprehensive screen layouts and navigation.",
+      "FTUE & Narrative: Designed a user-friendly First Time User Experience (FTUE) integrated with game narrative.",
+      "Feedback Mapping: Defined and mapped multi-sensory gameplay feedback within Figma for implementation.",
+      "Dynamic VFX: Developed procedural visual effects for game towers, maintaining a clean and organized project structure."
     ],
     "footer": "Tower Defense Game, where player chooses towers and upgrades for his ship and defends against waves of enemies.",
     "media": [
@@ -367,7 +372,8 @@
     ],
     "IOSLink": "https://apps.apple.com/us/app/spaceship-defense-td/id6752291600",
     "AndroidLink": "https://play.google.com/store/apps/details?id=com.CloverBite.SpaceshipDefenseTD",
-    "Publisher": "Supersonic from Unity"
+    "Publisher": "Supersonic from Unity",
+    "icon": "Spaceship Defense TD/icon.png"
   },
   {
     "Title": "Myth Showdown",
@@ -376,9 +382,9 @@
     "ProjectDate": "Oct 2025 - Nov 2025",
     "Publisher": "Crazy Labs",
     "Description": [
-      "<b>UX Analysis:</b> Deconstructed competitor mechanics to design an intuitive and accessible user flow.",
-      "<b>VFX Adaptation:</b> Integrated visual effects tailored to match the game's specific style and feel.",
-      "<b>UI Assembly:</b> Built interactive pop-ups and feedback systems to improve player experience."
+      "UX Analysis: Deconstructed competitor mechanics to design an intuitive and accessible user flow.",
+      "VFX Adaptation: Integrated visual effects tailored to match the game’s specific style and feel.",
+      "UI Assembly: Built interactive pop-ups and feedback systems to improve player experience."
     ],
     "footer": "Auto-Battler Game, where players collect and upgrade characters based on mythological creatures and battle against other players in strategic matches.",
     "media": [
@@ -404,7 +410,8 @@
       }
     ],
     "IOSLink": "https://apps.apple.com/us/app/myth-showdown/id6752291599",
-    "AndroidLink": "https://play.google.com/store/apps/details?id=com.cloverhoppa.dsd&hl=en"
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.cloverhoppa.dsd&hl=en",
+    "icon": "Myth Showdown/icon.png"
   },
   {
     "Title": "Hex Flow",
@@ -413,8 +420,8 @@
     "ProjectDate": "Dec 2025 - Jan 2026",
     "Publisher": "Crazy Labs",
     "Description": [
-      "<b>Market-Driven UX:</b> Conducted competitor research to align user flows with game design specifications.",
-      "<b>Feedback System:</b> Planned gameplay feedback, visual effects, and Win/Loss screen states."
+      "Market-Driven UX: Conducted competitor research to align user flows with game design specifications.",
+      "Feedback System: Planned gameplay feedback, visual effects, and Win/Loss screen states."
     ],
     "media": [
       {
@@ -429,7 +436,8 @@
       }
     ],
     "footer": "Pixel Flow like Puzzle game, where player sends colored rabbits to the tray and tries to clear the hexagonal level",
-    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.hexaflow"
+    "AndroidLink": "https://play.google.com/store/apps/details?id=com.hoppa.hexaflow",
+    "icon": "Hex Flow/icon.png"
   },
   {
     "Title": "Miasma",
@@ -438,11 +446,11 @@
     "SubTitle": "College Project",
     "ProjectDate": "Jan-Sep 2025",
     "Description": [
-      "<b>UX Design:</b> Designed core menus and UI screens (Main, Win/Loss) inspired by survival horror mechanics.",
-      "<b>Player Journey:</b> Defined the end-to-end player experience and emotional journey through the game.",
-      "<b>Level Design & Lighting:</b> Executed level assembly, prop placement, and dynamic lighting to establish a horror atmosphere.",
-      "<b>Atmospheric VFX:</b> Developed environmental effects to enhance immersion and suspense.",
-      "<b>Technical Art Lead:</b> Led the Tech Art & UX department, coordinating with Art and Game Design teams to define and execute tasks."
+      "UX Design: Designed core menus and UI screens (Main, Win/Loss) inspired by survival horror mechanics.",
+      "Player Journey: Defined the end-to-end player experience and emotional journey through the game.",
+      "Level Design & Lighting: Executed level assembly, prop placement, and dynamic lighting to establish a horror atmosphere.",
+      "Atmospheric VFX: Developed envir0onmental effects to enhance immersion and suspense.",
+      "Technical Art Lead: Led the Tech Art & UX department, coordinating with Art and Game Design teams to define and execute tasks."
     ],
     "footer": "2.5D Sidescroller Lovecraftian Horror Game where Marie, a ship captain's daughter, navigates a storm-wracked vessel while experiencing terrifying visions that blur reality and nightmare.",
     "media": [
@@ -508,7 +516,8 @@
       }
     ],
     "GoogleDriveLink": "https://drive.google.com/file/d/1YUn2FrCuxlFiFrY7uhd1blZ9gvxyT2ZU/view?usp=sharing",
-    "GitHubLink": "https://github.com/Quarter-Games/Death-Beyond-Depths"
+    "GitHubLink": "https://github.com/Quarter-Games/Death-Beyond-Depths",
+    "icon": "Miasma/icon.png"
   },
   {
     "Title": "Chefhero",
@@ -517,11 +526,11 @@
     "SubTitle": "Extra-Curricular Project",
     "ProjectDate": "Aug-May 2024",
     "Description": [
-      "<b>Technical Art Ownership:</b> Acted as the sole Tech Artist, evolving the role from VFX creation to full technical implementation.",
-      "<b>VFX & Interaction:</b> Developed extensive visual effects for combat mechanics and environmental interactions.",
-      "<b>Level Design & Balancing:</b> Created playable levels using Tilemaps and props to define gameplay difficulty and combat flow.",
-      "<b>Iterative QA:</b> Conducted rigorous team testing and QA sessions to refine mechanics and resolve issues.",
-      "<b>Award-Winning Development:</b> Won the 'Incubator' competition, leading to a professional contract at Clover Bite studio."
+      "Technical Art Ownership: Acted as the sole Tech Artist, evolving the role from VFX creation to full technical implementation.",
+      "VFX & Interaction: Developed extensive visual effects for combat mechanics and environmental interactions.",
+      "Level Design & Balancing: Created playable levels using Tilemaps and props to define gameplay difficulty and combat flow.",
+      "Iterative QA: Conducted rigorous team testing and QA sessions to refine mechanics and resolve issues.",
+      "Award-Winning Development: Won the 'Incubator' competition, leading to a professional contract at Clover Bite studio."
     ],
     "footer": "2D Bullet Heaven Sidescroller where a Chef saves his restaurant from invading food monsters using kitchen utensils and cooking tools.",
     "media": [
@@ -537,7 +546,8 @@
       }
     ],
     "GoogleDriveLink": "https://drive.google.com/file/d/1WtlXlExIvRExNWDfMX90B1uyzZ8hAxtR/view?usp=sharing",
-    "GitHubLink": "https://github.com/Quarter-Games/Natuw"
+    "GitHubLink": "https://github.com/Quarter-Games/Natuw",
+    "icon": "ChefHero/icon.png"
   },
   {
     "Title": "Dead Lift",
@@ -546,10 +556,10 @@
     "SubTitle": "Global Game Jam Project",
     "ProjectDate": "Jan 2024",
     "Description": [
-      "<b>Multidisciplinary Contribution:</b> Balanced technical tasks with event documentation and photography during a high-pressure 72-hour jam.",
-      "<b>Asset & VFX Creation:</b> Developed targeted 3D/2D assets and visual effects to fit the game's core mechanics.",
-      "<b>Character Concepting:</b> Collaborated on the creative direction and adaptation of iconic characters into game-ready zombie variants.",
-      "<b>Award-Winning Performance:</b> Secured 2nd place out of hundreds of participants in a competitive national Game Jam."
+      "Multidisciplinary Contribution: Balanced technical project tasks with event documentation and photography during a high-pressure 72-hour jam.",
+      "Asset & VFX Creation: Developed targeted 3D/2D assets and visual effects to fit the game’s core mechanics.",
+      "Character Concepting: Collaborated on the creative direction and adaptation of iconic characters into game-ready zombie variants.",
+      "Award-Winning Performance: Secured 2nd place out of hundreds of participants in a competitive national Game Jam."
     ],
     "footer": "Local Multiplayer game about getting at the highest point of a zombie tower",
     "media": [
@@ -565,7 +575,8 @@
       }
     ],
     "GoogleDriveLink": "https://drive.google.com/file/d/1M-Y-Sy6J92tE2i0lzxbFFhAXUsXdSsrT/view?usp=sharing",
-    "GitHubLink": "https://github.com/dendefo/Dead-Lift"
+    "GitHubLink": "https://github.com/dendefo/Dead-Lift",
+    "icon": "Dead Lift/icon.png"
   },
   {
     "Title": "Poo Master",
@@ -574,8 +585,8 @@
     "SubTitle": "Customer Project",
     "ProjectDate": "September 2023",
     "Description": [
-      "<b>UX Implementation:</b> Executed user flows and layouts under senior industry mentorship.",
-      "<b>VFX & Player Experience:</b> Designed and positioned visual feedback to ensure an optimal player journey."
+      "UX Implementation: Executed user flows and layouts under senior industry mentorship.",
+      "VFX & Player Experience: Designed and positioned visual feedback to ensure an optimal player journey."
     ],
     "footer": "A mobile game in which the player must navigate quickly to avoid the poop of angry and vengeful birds",
     "media": [
@@ -589,6 +600,7 @@
         "url": "https://www.youtube.com/embed/zRFDx0CpXeo?si=fOEkp99POLfbfgZt",
         "alt": "Gameplay Video"
       }
-    ]
+    ],
+    "icon": "Poo Master/icon.png"
   }
 ]
