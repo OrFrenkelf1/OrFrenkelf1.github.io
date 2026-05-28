@@ -271,6 +271,10 @@ function renderMainPane(item, container) {
                 </div>
                 ${subtitleHTML}
 
+                <div class="text-footer">
+                    <div class="description">${(item.footer || (Array.isArray(item.Description) ? item.Description.join(' ') : item.Description)).replace(/\\n/g, '<br>')}</div>
+                </div>
+
                 <div class="text">
                     <ul class="description-list">
                         ${Array.isArray(item.Description) ? 
@@ -278,10 +282,6 @@ function renderMainPane(item, container) {
                             `<li>${item.Description}</li>`
                         }
                     </ul>
-                </div>
-                
-                <div class="text-footer">
-                    <div class="description">${(item.footer || (Array.isArray(item.Description) ? item.Description.join(' ') : item.Description)).replace(/\\n/g, '<br>')}</div>
                 </div>
 
                 <div class="platform-links-container">
