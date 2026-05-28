@@ -11,11 +11,10 @@
 <!-- Header content will be dynamically loaded -->
 </header>
 
-
 <section id="about-section">
   <div id="about-content">
     <div id="about-photo-wrapper">
-      <img id="about-photo" src="profile.jpg" alt="Or Frenkel" onerror="this.style.display='none'; document.getElementById('about-photo-placeholder').style.display='flex';">
+      <img id="about-photo" src="ProfileImg.jpg" alt="Or Frenkel" onerror="this.style.display='none'; document.getElementById('about-photo-placeholder').style.display='flex';">
       <div id="about-photo-placeholder">
         <span>🎮</span>
       </div>
@@ -25,7 +24,7 @@
       <h3 id="about-title">Technical Artist & UX Designer</h3>
       <p id="about-bio">
         I specialize in bridging the gap between art and development — crafting game feel, polished UX, 2D VFX, and custom shaders in Unity.
-        With a background in both Game development and Game Art from Tiltan School of Design, I've shipped 10 mobile titles working with Supersonic (Unity) and Crazy Labs.
+        With a background in both Game Design and Game Art from Tiltan School of Design, I've shipped 10 mobile titles working with Supersonic (Unity) and Crazy Labs.
         I care deeply about the details that make games feel alive.
       </p>
       <div id="about-stats">
@@ -45,6 +44,46 @@
       <a href="#portfolio-main" id="about-cta" onclick="smoothScrollToPortfolio(event)">
         View My Work ↓
       </a>
+    </div>
+  </div>
+
+  <!-- Skills bar -->
+  <div id="about-skills">
+    <div class="skills-category">
+      <span class="skills-cat-label">Game Engines</span>
+      <div class="skills-tags">
+        <span class="skill-tag">Unity (URP)</span>
+        <span class="skill-tag">Mobile Optimization</span>
+        <span class="skill-tag">GitHub</span>
+      </div>
+    </div>
+    <div class="skills-divider"></div>
+    <div class="skills-category">
+      <span class="skills-cat-label">Technical Art</span>
+      <div class="skills-tags">
+        <span class="skill-tag">2D VFX</span>
+        <span class="skill-tag">Shader Graph</span>
+        <span class="skill-tag">Particle Systems</span>
+        <span class="skill-tag">Feel Package</span>
+      </div>
+    </div>
+    <div class="skills-divider"></div>
+    <div class="skills-category">
+      <span class="skills-cat-label">UX / UI</span>
+      <div class="skills-tags">
+        <span class="skill-tag">Figma</span>
+        <span class="skill-tag">Illustrator</span>
+        <span class="skill-tag">Photoshop</span>
+      </div>
+    </div>
+    <div class="skills-divider"></div>
+    <div class="skills-category">
+      <span class="skills-cat-label">Implementation</span>
+      <div class="skills-tags">
+        <span class="skill-tag">Unity UI</span>
+        <span class="skill-tag">Animation Systems</span>
+        <span class="skill-tag">Haptics</span>
+      </div>
     </div>
   </div>
 </section>
@@ -67,7 +106,6 @@
 <footer id="site-footer">
 <!-- Footer content will be dynamically loaded -->
 </footer>
-
 
   <script src="script.js"></script>
 </body>

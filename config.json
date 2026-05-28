@@ -5,7 +5,7 @@
     "footerText": "© 2025 dendefo, ChatGPT5 and Claude Sonnet 4:)"
   },
   "header": {
-    "title": "Or Frenkel Portfolio",
+    "title": "Or Frenkel — Technical Artist",
     "downloadCV": {
       "text": "📄 Download CV",
       "filename": "Or_Frenkel_Technical_Artist_2026.pdf",
@@ -13,10 +13,16 @@
     },
     "socialLinks": [
       {
-        "name": "LinkedIn", 
+        "name": "LinkedIn",
         "icon": "💼",
         "url": "https://www.linkedin.com/in/or-frenkel-927b74270/",
         "class": "linkedin-link"
+      },
+      {
+        "name": "ArtStation",
+        "icon": "🎨",
+        "url": "https://www.artstation.com/user-978944",
+        "class": "artstation-link"
       }
     ]
   },
